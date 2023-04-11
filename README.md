@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my second milestone project for the Fullstack developer course at Code Institute.
 <!--
 **jenkidev/jenkidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
