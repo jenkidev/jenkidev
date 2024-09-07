@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### My name is Morgan Jenkins and I am currently enrolled in the Full Stack Development Course at Code Institute. I have completed this through Cardiff and Vale College as part of their PLA scheme and am awaiting my final grade.
+#### My name is Morgan Jenkins and I am an aspiring junior developer. I have recently completed a full stack software development course through Cardiff and Vale College as part of their PLA scheme and have received a Merit grade for my efforts.
 
 📫 How to contact me:<br>
 
